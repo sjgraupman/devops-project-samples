@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sarahgraupman/sarahgraupman/_apis/build/status/sjgraupman.devops-project-samples?branchName=master)](https://dev.azure.com/sarahgraupman/sarahgraupman/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
